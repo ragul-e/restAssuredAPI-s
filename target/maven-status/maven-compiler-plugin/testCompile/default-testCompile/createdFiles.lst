@@ -1,0 +1,13 @@
+runner\testPutReq.class
+restAssure\getReq.class
+stepDefinition\putStepDef.class
+restAssure\getPost.class
+stepDefinition\delReqStepDef.class
+stepDefinition\GetStepDef.class
+runner\testDelReq$testRunner.class
+runner\testDelReq.class
+stepDefinition\getpostStepDef.class
+restAssure\PutRequest.class
+runner\testRunner.class
+runner\testGetReq.class
+restAssure\DelReq.class
